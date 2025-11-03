@@ -28,8 +28,8 @@
 ---
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/yourname](#)  
-- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/callyn-david-2228041b1](#)  
+- **Email:** [callyndavid@gmail.com](mailto:your.email@gmail.com)  
 - **GitHub Portfolio:** [github.com/yourusername](#)
 
 ---
