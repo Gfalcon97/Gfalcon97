@@ -29,8 +29,8 @@
 
 ### 📫 Let's Connect
 - **LinkedIn:** [linkedin.com/in/callyn-david-2228041b1](#)  
-- **Email:** [callyndavid@gmail.com](mailto:your.email@gmail.com)  
-- **GitHub Portfolio:** [github.com/yourusername](#)
+- **Email:** [callyndavid@gmail.com](mailto:callyndavid@gmail.com)  
+- **GitHub Portfolio:** [github.com/Gfalcon97](#)
 
 ---
 
