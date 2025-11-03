@@ -1,16 +1,37 @@
-Hi there 👋
+# 👋 Hi, I'm Callyn
 
+🎓 MSc in **Financial Mathematics** from Sussex University (2024), with a BSc in Mathematics.  
+💻 I’m passionate about **quantitative finance**, algorithmic trading, and mathematical modeling, combining advanced mathematics with programming to solve real-world financial problems.
 
-**Gfalcon97/Gfalcon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- Focused on launching a career as a **Quantitative Developer** in fintech startups or hedge funds.  
+- Interests include **algorithmic trading**, **derivative pricing**, **portfolio optimization**, and **time-series modeling**.  
+- Currently building a portfolio of Python, R, Matlab, and C# projects that demonstrate applied quantitative finance and computational techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### 🧰 Technical Skills
+- **Programming Languages:** Python, R, Matlab, C#  
+- **Quantitative Finance:** Monte Carlo simulations, derivative pricing, portfolio optimization, time-series modeling  
+- **Tools:** Jupyter, Git, Excel, LaTeX  
+
+---
+
+### 📈 Featured / Planned Projects
+- Monte Carlo simulation for option pricing  
+- Portfolio optimization dashboard using real market data  
+- Time-series analysis and forecasting for financial markets  
+*(Projects are in progress and will be linked as they are completed)*
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn:** [linkedin.com/in/yourname](#)  
+- **Email:** [your.email@gmail.com](mailto:your.email@gmail.com)  
+- **GitHub Portfolio:** [github.com/yourusername](#)
+
+---
+
+> “Bridging mathematics, markets, and technology — one model at a time.”
