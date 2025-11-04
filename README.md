@@ -13,7 +13,9 @@
 ---
 
 ### 🧰 Technical Skills
-- **Programming Languages:** Python, R, Matlab, C#  
+
+[![My Skills](https://skillicons.dev/icons?i=py,r,cpp,cs)](https://skillicons.dev)
+
 - **Quantitative Finance:** Monte Carlo simulations, derivative pricing, portfolio optimization, time-series modeling  
 - **Tools:** Jupyter, Git, Excel, LaTeX  
 
